@@ -25,7 +25,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:text="11 MFine Coins"
+                android:text="11 Ayurva Coins"
                 android:textColor="#FB8C00"
                 android:textSize="15dp"
                 android:textStyle="bold" />
@@ -48,7 +48,7 @@
                 android:background="@drawable/question_bg"
                 android:drawableRight="@drawable/arrow_down_icon"
                 android:padding="10dp"
-                android:text="What are MFine Coins ?"
+                android:text="What are Ayurva Coins ?"
                 android:textColor="#FFFFFF"
                 android:textSize="15dp" />
 
@@ -72,7 +72,7 @@
                 android:background="@drawable/question_bg"
                 android:drawableRight="@drawable/arrow_down_icon"
                 android:padding="10dp"
-                android:text="How do I earn MFine Coins ?"
+                android:text="How do I earn Ayurva Coins ?"
                 android:textColor="#FFFFFF"
                 android:textSize="15dp" />
 
@@ -96,7 +96,7 @@
                 android:background="@drawable/question_bg"
                 android:drawableRight="@drawable/arrow_down_icon"
                 android:padding="10dp"
-                android:text="How Do i use MFine Coins ?"
+                android:text="How Do i use Ayurva Coins ?"
                 android:textColor="#FFFFFF"
                 android:textSize="15dp" />
 
@@ -120,7 +120,7 @@
                 android:background="@drawable/question_bg"
                 android:drawableRight="@drawable/arrow_down_icon"
                 android:padding="10dp"
-                android:text="How Many MFine Coins can I use per Transaction ?"
+                android:text="How Many Ayurva Coins can I use per Transaction ?"
                 android:textColor="#FFFFFF"
                 android:textSize="15dp" />
 
@@ -144,7 +144,7 @@
                 android:background="@drawable/question_bg"
                 android:drawableRight="@drawable/arrow_down_icon"
                 android:padding="10dp"
-                android:text="Cancellation &amp; Refund of MFine Coins."
+                android:text="Cancellation &amp; Refund of Ayurva Coins."
                 android:textColor="#FFFFFF"
                 android:textSize="15dp" />
 
@@ -168,7 +168,7 @@
                 android:background="@drawable/question_bg"
                 android:drawableRight="@drawable/arrow_down_icon"
                 android:padding="10dp"
-                android:text="How do I permanently delete my Mfine account ?"
+                android:text="How do I permanently delete my Ayurva account ?"
                 android:textColor="#FFFFFF"
                 android:textSize="15dp" />
 
@@ -192,7 +192,7 @@
                 android:background="@drawable/question_bg"
                 android:drawableRight="@drawable/arrow_down_icon"
                 android:padding="10dp"
-                android:text="What Services can I use my MFine Coins on ?"
+                android:text="What Services can I use my Ayurva Coins on ?"
                 android:textColor="#FFFFFF"
                 android:textSize="15dp" />
 

@@ -39,6 +39,7 @@
             android:layout_height="wrap_content"
             android:text="Symptom"
             android:layout_marginRight="10dp" />
+
     <ImageView
         android:layout_width="match_parent"
         android:layout_marginTop="10dp"
@@ -54,6 +55,7 @@
         android:text="Now you choose doctor on the basis of your symptoms....."
         android:textSize="18sp"
         android:textColor="@color/black"/>
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerViewDoctor"
         android:layout_margin="10dp"

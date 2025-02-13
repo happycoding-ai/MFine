@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.mfineapplication">
+    package="com.ayurva.mfineapplication">
 
     <application
         android:allowBackup="true"
@@ -9,41 +9,42 @@
         android:roundIcon="@drawable/m_fine_logo_2"
         android:supportsRtl="true"
         android:theme="@style/Theme.MFineApplication">
-        <activity android:name=".HelpAndSupport" />
-        <activity android:name=".OrderMedicineActivity" />
-        <activity android:name=".EditProfile" />
+        <activity android:name="com.ayurva.mfineapplication.HelpAndSupport" />
+        <activity android:name="com.ayurva.mfineapplication.OrderMedicineActivity" />
+        <activity android:name="com.ayurva.mfineapplication.EditProfile" />
 
         <activity
-            android:name=".AppointmentConfirmationActivity"
+            android:name="com.ayurva.mfineapplication.AppointmentConfirmationActivity"
             android:exported="true" />
         <activity
-            android:name=".PatientRegistrationActivity"
+            android:name="com.ayurva.mfineapplication.PatientRegistrationActivity"
             android:exported="true" />
         <activity
-            android:name=".SymptomDetailActivity"
+            android:name="com.ayurva.mfineapplication.SymptomDetailActivity"
             android:exported="true" />
         <activity
-            android:name=".CreateAccount"
-            android:exported="true" />
-
-        <activity
-            android:name=".ExploreMoreActivity"
-            android:exported="true" />
-        <activity
-            android:name=".ConsultNow"
-            android:exported="true" />
-        <activity
-            android:name=".SearchActivity"
-            android:exported="true" />
-        <activity android:name=".WalletActivity" />
-        <activity
-            android:name=".Supporter"
+            android:name="com.ayurva.mfineapplication.CreateAccount"
             android:exported="true" />
 
         <activity
-            android:name=".SignUp"
+            android:name="com.ayurva.mfineapplication.ExploreMoreActivity"
             android:exported="true" />
-        <activity android:name=".SplashActivity">
+        <activity
+            android:name="com.ayurva.mfineapplication.ConsultNow"
+            android:exported="true" />
+        <activity
+            android:name="com.ayurva.mfineapplication.SearchActivity"
+            android:exported="true" />
+        <activity android:name="com.ayurva.mfineapplication.WalletActivity" />
+        <activity
+            android:name="com.ayurva.mfineapplication.Supporter"
+            android:exported="true" />
+
+        <activity
+            android:name="com.ayurva.mfineapplication.SignUp"
+            android:exported="true" />
+        <activity android:name="com.ayurva.mfineapplication.SplashActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -51,7 +52,7 @@
             </intent-filter>
 
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.ayurva.mfineapplication.MainActivity">
 
         </activity>
 

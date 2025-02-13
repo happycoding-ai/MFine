@@ -109,7 +109,7 @@
                 android:drawablePadding="10dp"
                 android:fontFamily="@font/roboto"
                 android:padding="6dp"
-                android:text="MFine Delivery Process &amp;\nSafety Measures"
+                android:text="Ayurva Delivery Process &amp;\nSafety Measures"
                 android:textColor="#037280"
                 android:textSize="12dp" />
 

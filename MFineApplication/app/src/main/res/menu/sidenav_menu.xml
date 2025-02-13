@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools ="http://schemas.android.com/tools"
     tools:showIn = "navigation_view">
-    <item android:title="MFINE CARE SERVICES">
+    <item android:title="AYURVA CARE SERVICES">
         <menu>
             <item
                 android:id="@+id/consultNow"
@@ -47,7 +47,7 @@
             <item
                 android:id="@+id/aboutMFine"
                 android:icon="@drawable/m_fine_logo"
-                android:title="About MFine"/>
+                android:title="About Ayurva"/>
             <item
                 android:id="@+id/termsConditions"
                 android:icon="@drawable/ic_plus"
